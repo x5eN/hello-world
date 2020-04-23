@@ -1,0 +1,21 @@
+#include <stdio.h>
+opti (int h, int u);
+int main()
+{
+printf("So, what's your shape\?\n");
+opti(1,2);
+printf("and\?\n");
+opti(2,3);
+}
+opti(int h,int u)
+{
+int a,b;
+for(a=1;a<=h;a++)
+  {
+    for(b=1;b<=u;b++)
+    (
+    printf("/xDB");
+    }
+    printf("\n");
+  }
+  }
